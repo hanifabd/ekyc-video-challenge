@@ -52,8 +52,6 @@ By using video-based eKYC, businesses can reduce fraud, improve user experience,
 ├── 📂 test
 ├── 📂 utils (functions and classes)
 ├── 📄 requirements.txt
-├── 📄 Dockerfile
-├── 📄 run.sh
 ├── 📄 README.md
 ├── 🐍 app.py
 ├── 🌐 index.html
