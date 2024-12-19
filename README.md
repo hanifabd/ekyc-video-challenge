@@ -59,6 +59,13 @@ By using video-based eKYC, businesses can reduce fraud, improve user experience,
 ├── 🌐 index.html
 ```
 
+# System Communication Architecture
+<p align="center">
+  <picture>
+    <img alt="header" src="./project_docs/project_assets/arch-design.jpg" width=60%>
+  </picture>
+</p>
+
 ## Preview
 <p align="center">
   <picture>
